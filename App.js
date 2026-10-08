@@ -11,8 +11,8 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 
 const profile = {
-  name: 'Diluka',
-  email: 'diluka.w@nsbm.ac.lk',
+  name: 'Keshan',
+  email: 'Keshan.k@nsbm.ac.lk',
   photo: 'https://i.pravatar.cc/300?img=12',
 };
 
